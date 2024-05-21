@@ -1,2 +1,2 @@
 # Exp.2
-## Demo repo for Devops
+## Demo repository for Devops
